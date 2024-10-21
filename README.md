@@ -1,4 +1,5 @@
 Reflected XSS in HTML Context - Challenge Write-Up
+
 Introduction
 Welcome to the Reflected XSS in HTML Context challenge! In this room, you will delve into a classic Reflected Cross-Site Scripting (XSS) vulnerability. Your mission is to identify and exploit this vulnerability within the web application and capture the hidden flag. XSS attacks enable attackers to inject malicious client-side scripts into web pages, potentially leading to severe consequences for users.
 
